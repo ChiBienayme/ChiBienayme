@@ -47,6 +47,9 @@
     &nbsp;
     <span><img src="https://img.shields.io/badge/heroku-430098?logo=heroku&logoColor=FFFFF" alt="Heroku logo" title="Heroku" height="25" /></span>
     &nbsp;
+    <span><img src="https://img.shields.io/badge/netlify-00C7B7?logo=netlify&logoColor=FFFFF" alt="Netlify logo" title="Netlify" height="25" /></span>
+    &nbsp;
+  
   </h3>
 </div>
 
@@ -58,7 +61,7 @@
 </div>
 
 <div>
-  <h3> Outils 
+  <h3> Outils:
     <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
     &nbsp;
   </h3>
