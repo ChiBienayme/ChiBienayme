@@ -134,12 +134,12 @@
 
 <br>
 
-<h2 align="center">📑 Random DEV Quotes 📑</h2>
-<br>
+<!-- <h2 align="center">📑 Random DEV Quotes 📑</h2>
+<br> -->
 <!-- https://github.com/shravan20/github-readme-quotes -->
-<div align="right">
+<!-- <div align="right">
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=onedark&animation=default&layout=default&font=default)
 
-</div>
+</div> -->
 
